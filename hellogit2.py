@@ -1,1 +1,1 @@
-print ("Este es mi segundo git de actualizacion en el 2")
+print ("Este es mi segundo git de actualizacion en el 2 nuevo")

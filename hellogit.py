@@ -1,1 +1,1 @@
-prit ("New hellogit")
+print ("New hellogit")
